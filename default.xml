@@ -29,6 +29,7 @@
  <project path="vendor/samsung/kyleproxx" name="ishantvivek/android_vendor_samsung_kyleproxx" remote="github" revision="7.0" />
  <project path="external/chromium-webview" name="ishantvivek/android_external_chromium-webview" clone-depth="1" remote="github" revision="7.0" />
  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" groups="pdk,linux,arm" clone-depth="1" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
+ <project path="vendor/aos" name="namdeptrai2003/platform_vendor_aos" remote="aos" />
   
   <!-- AOSP packages -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
